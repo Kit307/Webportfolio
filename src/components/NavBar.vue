@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="px-2 sm:px-4 py-4 text-emerald-500 bg-white dark:bg-gray-800 dark:text-emerald-400 text-3xl font-semibold shadow-lg sticky top-0"
+    class="px-2 sm:px-4 py-4 text-emerald-500 bg-white dark:bg-gray-800 dark:text-emerald-400 text-3xl font-semibold shadow-lg sticky top-0 z-50"
   >
     <div class="container flex flex-wrap items-center justify-between mx-auto">
       <h1 class="flex items-center">Kit</h1>
@@ -33,15 +33,15 @@
         >
           <a
             class="hover:text-emerald-800 hover:underline hover:underline-offset-2 text-xl dark:hover:text-emerald-300"
-            >home</a
+            >Home</a
           >
           <a
             class="hover:text-emerald-800 hover:underline hover:underline-offset-2 text-xl dark:hover:text-emerald-300"
-            >contact</a
+            >Contact</a
           >
           <a
             class="hover:text-emerald-800 hover:underline hover:underline-offset-2 text-xl dark:hover:text-emerald-300"
-            >about</a
+            >About</a
           >
           <button
             class="hover:text-emerald-800 hover:underline hover:underline-offset-2 text-xl dark:hover:text-emerald-300"
