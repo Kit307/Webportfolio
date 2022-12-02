@@ -44,7 +44,7 @@
             >About</a
           >
           <button
-            class="hover:text-emerald-800 hover:underline hover:underline-offset-2 text-xl dark:hover:text-emerald-300"
+            class="hover:text-emerald-800 hover:underline hover:underline-offset-2 text-xl dark:hover:text-emerald-300 ease-in"
             @click="$emit('add')"
           >
             <div v-if="msg">
