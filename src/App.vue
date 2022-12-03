@@ -6,6 +6,7 @@ import Profile from "./components/Profile.vue";
 import Contact from "./components/Contact.vue";
 import Email from "./components/Email.vue";
 import Certificate from "./components/Certificate.vue";
+import About from "./components/About.vue";
 </script>
 
 <template>
@@ -14,6 +15,7 @@ import Certificate from "./components/Certificate.vue";
       <!-- <Contact></Contact> -->
       <NavBar @add="isDark = !isDark" :msg="isDark"></NavBar>
       <HelloWorld></HelloWorld>
+      <About />
       <TimeLine></TimeLine>
       <Profile></Profile>
       <Certificate />
@@ -29,6 +31,15 @@ export default {
       isDark: false,
     };
   },
-  components: { Contact, Profile, TimeLine, NavBar, HelloWorld, Certificate },
+  components: {
+    Contact,
+    Profile,
+    TimeLine,
+    NavBar,
+    HelloWorld,
+    Email,
+    Certificate,
+    About,
+  },
 };
 </script>
