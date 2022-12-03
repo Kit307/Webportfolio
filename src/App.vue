@@ -5,6 +5,7 @@ import TimeLine from "./components/TimeLine.vue";
 import Profile from "./components/Profile.vue";
 import Contact from "./components/Contact.vue";
 import Email from "./components/Email.vue";
+import Certificate from "./components/Certificate.vue";
 </script>
 
 <template>
@@ -15,6 +16,7 @@ import Email from "./components/Email.vue";
       <HelloWorld></HelloWorld>
       <TimeLine></TimeLine>
       <Profile></Profile>
+      <Certificate />
       <Email />
     </div>
   </div>
@@ -24,9 +26,9 @@ import Email from "./components/Email.vue";
 export default {
   data() {
     return {
-      isDark: true,
+      isDark: false,
     };
   },
-  components: { Contact, Profile, TimeLine, NavBar, HelloWorld },
+  components: { Contact, Profile, TimeLine, NavBar, HelloWorld, Certificate },
 };
 </script>

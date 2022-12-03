@@ -31,14 +31,18 @@
               <a href="tel:+660954475609">0954475609</a>
             </dd>
           </a>
-          <div
+
+          <a
+            href="https://github.com/Kit307"
+            target="_blank"
+            rel="noopener noreferrer"
             class="flex flex-col items-center justify-center py-2 hover:shadow-lg hover:shadow-green-400 dark:hover:shadow-neutral-300 transition ease-in hover:bg-emerald-100 dark:hover:bg-slate-800"
           >
-            <dt class="mb-2 text-2xl font-extrabold">Id : Line</dt>
+            <dt class="mb-2 text-2xl font-extrabold">GitHub</dt>
             <dd class="font-light text-gray-800 dark:text-gray-200">
-              ID: 0954475609
+              GitHub/Kit307
             </dd>
-          </div>
+          </a>
         </dl>
       </div>
     </div>

@@ -33,7 +33,7 @@
             >2017-2019</time
           >
           <p class="text-base font-normal text-gray-500 dark:text-gray-200">
-            Study at Dhammarat Sueksa School <br />
+            Graduated at Dhammarat Sueksa School <br />
             <span class="text-emerald-500 dark:text-emerald-300"
               >GPA : 3.66</span
             >
