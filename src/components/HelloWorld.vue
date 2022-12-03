@@ -62,7 +62,7 @@ export default {
         setTimeout(() => {
           this.show_text2 += text2[len_text2];
           len_text2++;
-        }, 200 * i);
+        }, 100 * i);
       }
     },
   },

@@ -5,7 +5,7 @@
     >
       Education
     </h1>
-    <div class="flex justify-center pl-5">
+    <div class="flex justify-center pl-10">
       <ol class="relative border-l border-gray-200 dark:border-x-green-600">
         <li class="mb-10 ml-6">
           <span

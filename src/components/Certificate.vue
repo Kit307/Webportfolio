@@ -5,7 +5,7 @@
     >
       Certificate
     </h1>
-    <div class="md:flex justify-center items-center md:gap-9">
+    <div class="lg:flex justify-center items-center lg:gap-9">
       <img
         class="sm:min-w-96 lg:max-w-lg py-10 px-5 h-auto rounded-lg transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0"
         src="../assets/img/img14.jpg"
