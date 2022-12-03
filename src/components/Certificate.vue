@@ -5,14 +5,14 @@
     >
       Certificate
     </h1>
-    <div class="md:flex justify-center items-center gap-9">
+    <div class="md:flex justify-center items-center md:gap-9">
       <img
-        class="sm:min-w-96 lg:max-w-lg h-auto rounded-lg transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0"
+        class="sm:min-w-96 lg:max-w-lg py-10 px-5 h-auto rounded-lg transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0"
         src="../assets/img/img14.jpg"
         alt="image description"
         @click="show = true"
       /><img
-        class="sm:min-w-96 lg:max-w-lg h-auto rounded-lg transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0"
+        class="sm:min-w-96 lg:max-w-lg py-10 px-5 h-auto rounded-lg transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0"
         src="../assets/img/img19.jpg"
         alt="image description"
         @click="show1 = true"

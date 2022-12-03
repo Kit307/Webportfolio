@@ -9,7 +9,7 @@
     <div>
       <div class="p-4" id="stats" role="tabpanel" aria-labelledby="stats-tab">
         <dl
-          class="grid max-w-screen-xl grid-cols-2 gap-8 p-4 mx-auto text-gray-900 sm:grid-cols-3 xl:grid-cols-3 dark:text-white sm:p-8"
+          class="grid max-w-screen-xl grid-cols-1 gap-8 p-4 mx-auto text-gray-900 sm:grid-cols-3 xl:grid-cols-3 dark:text-white sm:p-8"
         >
           <a
             href="mailto:mju6304101307@gmaejo.mju.ac.th"
