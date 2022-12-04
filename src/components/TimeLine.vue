@@ -1,11 +1,11 @@
 <template>
   <div class="pb-32">
     <h1
-      class="md:pl-40 ml-8 text-4xl pb-16 text-green-400 underline underline-offset-8 font-black"
+      class="md:pl-40 reveal ml-8 text-4xl pb-16 text-green-400 underline underline-offset-8 font-black"
     >
       Education
     </h1>
-    <div class="flex justify-center pl-10">
+    <div class="flex justify-center pl-10 reveal  ">
       <ol class="relative border-l border-gray-200 dark:border-x-green-600">
         <li class="mb-10 ml-6">
           <span

@@ -1,13 +1,13 @@
 <template>
-  <div style="" id="Contact">
+  <div class="pb-20" id="Contact">
     <h1
-      class="md:pl-40 ml-8 text-4xl py-16 text-green-400 underline underline-offset-8 font-black"
+      class="md:pl-40 reveal  ml-8 text-4xl py-16 text-green-400 underline underline-offset-8 font-black"
     >
       Contact
     </h1>
 
     <div>
-      <div class="p-4" id="stats" role="tabpanel" aria-labelledby="stats-tab">
+      <div class="p-4 reveal" id="stats" role="tabpanel" aria-labelledby="stats-tab">
         <dl
           class="grid max-w-screen-xl grid-cols-1 gap-8 p-4 mx-auto text-gray-900 sm:grid-cols-3 xl:grid-cols-3 dark:text-white sm:p-8"
         >

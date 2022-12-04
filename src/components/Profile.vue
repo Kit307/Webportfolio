@@ -1,15 +1,20 @@
 <template>
-  <div class=" pt-32" id="Skill">
+  <div class="pt-32" id="Skill">
     <h1
-      class="md:pl-40 ml-8 text-4xl pb-16 text-green-400 underline underline-offset-8 font-black"
+      class="md:pl-40 ml-8 reveal text-4xl pb-16 text-green-400 underline underline-offset-8 font-black"
     >
       Skill & Tools
     </h1>
     <div>
-      <h1 class="dark:text-white text-2xl md:pl-40 ml-8">
+      <h1 class="reveal dark:text-white text-2xl md:pl-40 ml-8">
         Skills & Programming Language
       </h1>
-      <div class="p-4" id="stats" role="tabpanel" aria-labelledby="stats-tab">
+      <div
+        class="p-4 reveal"
+        id="stats"
+        role="tabpanel"
+        aria-labelledby="stats-tab"
+      >
         <dl
           class="grid max-w-screen-xl grid-cols-2 gap-8 p-4 mx-auto text-gray-900 sm:grid-cols-3 xl:grid-cols-4 dark:text-white sm:p-8"
         >
@@ -17,16 +22,14 @@
             class="flex flex-col items-start md:items-center justify-start md:justify-center pr-2 hover:shadow-lg hover:shadow-green-400 dark:hover:shadow-neutral-300 transition ease-in hover:bg-emerald-100 dark:hover:bg-slate-800"
           >
             <dt class="mb-2 text-2xl text- font-extrabold">Python</dt>
-            <dd class="font-light text-gray-500 dark:text-gray-400">
-              Developers
-            </dd>
+            <dd class="font-light text-gray-500 dark:text-gray-400">Basic</dd>
           </div>
           <div
             class="flex flex-col items-start md:items-center justify-start md:justify-center pr-2 hover:shadow-lg hover:shadow-green-400 dark:hover:shadow-neutral-300 transition ease-in hover:bg-emerald-100 dark:hover:bg-slate-800"
           >
             <dt class="mb-2 text-2xl font-extrabold">JAVA OOP</dt>
             <dd class="font-light text-gray-500 dark:text-gray-400">
-              Public repositories
+              Java & Java OOP
             </dd>
           </div>
           <div
@@ -34,7 +37,7 @@
           >
             <dt class="mb-2 text-2xl font-extrabold">DART FLUTTER</dt>
             <dd class="font-light text-gray-500 dark:text-gray-400">
-              Open source projects
+              Basic app
             </dd>
           </div>
           <div
@@ -42,7 +45,7 @@
           >
             <dt class="mb-2 text-2xl font-extrabold">FIREBASE, MySQL</dt>
             <dd class="font-light text-gray-500 dark:text-gray-400">
-              Contributors
+              MySQL Query Commands
             </dd>
           </div>
 
@@ -51,7 +54,7 @@
           >
             <dt class="mb-2 text-2xl font-extrabold">VUE.JS</dt>
             <dd class="font-light text-gray-500 dark:text-gray-400">
-              Organizations
+              vuejs, Nuxtjs, Vue cli
             </dd>
           </div>
           <div
@@ -68,7 +71,7 @@
           >
             <dt class="mb-2 text-2xl font-extrabold">UML DIAGRAM</dt>
             <dd class="font-light text-gray-500 dark:text-gray-400">
-              BOOTSTRAP CSS, TAILWIND CSS,
+              Class Diagram,Use case Diagram, etc.
             </dd>
           </div>
           <div
@@ -83,8 +86,13 @@
       </div>
     </div>
     <div>
-      <h1 class="dark:text-white text-2xl md:pl-40 ml-8">Tools</h1>
-      <div class="p-4" id="stats" role="tabpanel" aria-labelledby="stats-tab">
+      <h1 class="dark:text-white text-2xl md:pl-40 ml-8 reveal">Tools</h1>
+      <div
+        class="p-4 reveal"
+        id="stats"
+        role="tabpanel"
+        aria-labelledby="stats-tab"
+      >
         <dl
           class="grid max-w-screen-xl grid-cols-2 gap-8 p-4 mx-auto text-gray-900 sm:grid-cols-3 xl:grid-cols-4 dark:text-white sm:p-8"
         >
@@ -92,25 +100,16 @@
             class="flex flex-col items-start md:items-center justify-start md:justify-center pr-2 hover:shadow-lg hover:shadow-green-400 dark:hover:shadow-neutral-300 transition ease-in hover:bg-emerald-100 dark:hover:bg-slate-800"
           >
             <dt class="mb-2 text-2xl font-extrabold">FIGMA</dt>
-            <dd class="font-light text-gray-500 dark:text-gray-400">
-              Developers
-            </dd>
           </div>
           <div
             class="flex flex-col items-start md:items-center justify-start md:justify-center pr-2 hover:shadow-lg hover:shadow-green-400 dark:hover:shadow-neutral-300 transition ease-in hover:bg-emerald-100 dark:hover:bg-slate-800"
           >
             <dt class="mb-2 text-2xl font-extrabold">Visual Studio Code</dt>
-            <dd class="font-light text-gray-500 dark:text-gray-400">
-              Public repositories
-            </dd>
           </div>
           <div
             class="flex flex-col items-start md:items-center justify-start md:justify-center pr-2 hover:shadow-lg hover:shadow-green-400 dark:hover:shadow-neutral-300 transition ease-in hover:bg-emerald-100 dark:hover:bg-slate-800"
           >
             <dt class="mb-2 text-2xl font-extrabold">Microsoft Office</dt>
-            <dd class="font-light text-gray-500 dark:text-gray-400">
-              Open source projects
-            </dd>
           </div>
         </dl>
       </div>

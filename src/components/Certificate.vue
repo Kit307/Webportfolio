@@ -1,11 +1,11 @@
 <template>
   <div>
     <h1
-      class="md:pl-40 ml-8 text-4xl pb-16 text-green-400 underline underline-offset-8 font-black"
+      class="md:pl-40 reveal ml-8 text-4xl pb-16 text-green-400 underline underline-offset-8 font-black"
     >
       Certificate
     </h1>
-    <div class="lg:flex justify-center items-center lg:gap-9">
+    <div class="lg:flex reveal justify-center items-center lg:gap-9">
       <img
         class="sm:min-w-96 lg:max-w-lg py-10 px-5 h-auto rounded-lg transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0"
         src="../assets/img/img14.jpg"

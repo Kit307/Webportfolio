@@ -1,19 +1,19 @@
 <template>
-  <div class="h-screen" id="About">
+  <div class="h-screen " id="About">
     <div class="lg:pt-36 md:pt-32 pt-20">
       <h1
-        class="md:pl-40 ml-8 text-4xl py-16 text-green-400 underline underline-offset-8 font-black"
+        class="md:pl-40 ml-8 reveal text-4xl py-16 text-green-400 underline underline-offset-8 font-black"
       >
         About
       </h1>
       <div>
         <h1
-          class="mb-4 text-center text-3xl font-extrabold text-gray-900 dark:text-white md:text-5xl lg:text-6xl"
+          class="mb-4 reveal text-center text-3xl font-extrabold text-gray-900 dark:text-white md:text-5xl lg:text-6xl"
         >
           Hey. What's Up? Hello!😎
         </h1>
       </div>
-      <figure class="mx-auto max-w-screen-md text-left">
+      <figure class="mx-auto reveal max-w-screen-md text-left">
         <blockquote>
           <p
             class="text-xl md:text-2xl italic font-medium text-gray-900 dark:text-white px-10"
