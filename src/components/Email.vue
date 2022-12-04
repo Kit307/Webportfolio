@@ -1,5 +1,5 @@
 <template>
-  <div style="height: 50rem">
+  <div style="" id="Contact">
     <h1
       class="md:pl-40 ml-8 text-4xl py-16 text-green-400 underline underline-offset-8 font-black"
     >

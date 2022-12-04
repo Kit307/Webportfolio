@@ -1,5 +1,5 @@
 <template>
-  <div class="pb-60">
+  <div class="pb-32">
     <h1
       class="md:pl-40 ml-8 text-4xl pb-16 text-green-400 underline underline-offset-8 font-black"
     >

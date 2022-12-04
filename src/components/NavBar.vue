@@ -32,17 +32,25 @@
           class="flex flex-col md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0"
         >
           <a
+            href="#home"
             class="hover:text-emerald-800 hover:underline hover:underline-offset-2 text-xl dark:hover:text-emerald-300"
             >Home</a
-          >
-          <a
-            class="hover:text-emerald-800 hover:underline hover:underline-offset-2 text-xl dark:hover:text-emerald-300"
-            >Contact</a
-          >
-          <a
+          ><a
+            href="#About"
             class="hover:text-emerald-800 hover:underline hover:underline-offset-2 text-xl dark:hover:text-emerald-300"
             >About</a
           >
+          <a
+            href="#Skill"
+            class="hover:text-emerald-800 hover:underline hover:underline-offset-2 text-xl dark:hover:text-emerald-300"
+            >Skill & Tools</a
+          >
+          <a
+            href="#Contact"
+            class="hover:text-emerald-800 hover:underline hover:underline-offset-2 text-xl dark:hover:text-emerald-300"
+            >Contact</a
+          >
+
           <button
             class="hover:text-emerald-800 hover:underline hover:underline-offset-2 text-xl dark:hover:text-emerald-300 ease-in"
             @click="$emit('add')"
