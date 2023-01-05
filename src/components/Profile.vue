@@ -88,7 +88,7 @@
     <div>
       <h1 class="dark:text-white text-2xl md:pl-40 ml-8 reveal">Tools</h1>
       <div
-        class="p-4 reveal"
+        class="p-14 reveal"
         id="stats"
         role="tabpanel"
         aria-labelledby="stats-tab"
@@ -97,17 +97,17 @@
           class="grid max-w-screen-xl grid-cols-2 gap-8 p-4 mx-auto text-gray-900 sm:grid-cols-3 xl:grid-cols-4 dark:text-white sm:p-8"
         >
           <div
-            class="flex flex-col items-start md:items-center justify-start md:justify-center pr-2 hover:shadow-lg hover:shadow-green-400 dark:hover:shadow-neutral-300 transition ease-in hover:bg-emerald-100 dark:hover:bg-slate-800"
+            class="flex flex-col items-start md:items-center justify-start md:justify-center p-2 hover:shadow-lg hover:shadow-green-400 dark:hover:shadow-neutral-300 transition ease-in hover:bg-emerald-100 dark:hover:bg-slate-800"
           >
             <dt class="mb-2 text-2xl font-extrabold">FIGMA</dt>
           </div>
           <div
-            class="flex flex-col items-start md:items-center justify-start md:justify-center pr-2 hover:shadow-lg hover:shadow-green-400 dark:hover:shadow-neutral-300 transition ease-in hover:bg-emerald-100 dark:hover:bg-slate-800"
+            class="flex flex-col items-start md:items-center justify-start md:justify-center p-2 hover:shadow-lg hover:shadow-green-400 dark:hover:shadow-neutral-300 transition ease-in hover:bg-emerald-100 dark:hover:bg-slate-800"
           >
             <dt class="mb-2 text-2xl font-extrabold">Visual Studio Code</dt>
           </div>
           <div
-            class="flex flex-col items-start md:items-center justify-start md:justify-center pr-2 hover:shadow-lg hover:shadow-green-400 dark:hover:shadow-neutral-300 transition ease-in hover:bg-emerald-100 dark:hover:bg-slate-800"
+            class="flex flex-col items-start md:items-center justify-start md:justify-center p-2 hover:shadow-lg hover:shadow-green-400 dark:hover:shadow-neutral-300 transition ease-in hover:bg-emerald-100 dark:hover:bg-slate-800"
           >
             <dt class="mb-2 text-2xl font-extrabold">Microsoft Office</dt>
           </div>
