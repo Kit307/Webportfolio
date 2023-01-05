@@ -27,7 +27,7 @@
             >
             in the field of
             <span class="underline">
-              Full stack, Back end, Front end, and Mobile developer.</span
+              Full stack, Java developer and Mobile developer.</span
             >
           </p>
         </blockquote>
