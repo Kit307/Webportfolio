@@ -3,7 +3,7 @@
     class="px-2 sm:px-4 py-4 text-emerald-500 bg-white dark:bg-gray-800 dark:text-emerald-400 text-3xl font-semibold shadow-lg sticky top-0 z-50"
   >
     <div class="container flex flex-wrap items-center justify-between mx-auto">
-      <h1 class="flex items-center">Kit</h1>
+      <a class="flex items-center" href="#home">Kit</a>
 
       <button
         data-collapse-toggle="navbar-default"
