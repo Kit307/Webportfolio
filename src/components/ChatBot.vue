@@ -17,9 +17,9 @@ export default {};
 df-messenger {
   --df-messenger-bot-message: #49f31f;
   --df-messenger-button-titlebar-color: #00ffff;
-  --df-messenger-font-color: rgb(11, 1, 1);
+  --df-messenger-font-color: rgb(255, 255, 255);
   --df-messenger-send-icon: #0036f9;
-  --df-messenger-user-message: #2bd818;
+  --df-messenger-user-message: #9038c4;
   --df-messenger-send-icon: #0036f9;
   --df-messenger-button-titlebar-font-color: black;
   --df-messenger-chat-background-color: white;
