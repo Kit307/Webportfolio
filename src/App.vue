@@ -7,6 +7,7 @@ import Contact from "./components/Contact.vue";
 import Email from "./components/Email.vue";
 import Certificate from "./components/Certificate.vue";
 import About from "./components/About.vue";
+import ChatBot from "./components/ChatBot.vue";
 </script>
 
 <template>
@@ -20,6 +21,7 @@ import About from "./components/About.vue";
       <Profile></Profile>
       <Certificate />
       <Email />
+      <ChatBot />
     </div>
   </div>
 </template>
@@ -40,6 +42,7 @@ export default {
     Email,
     Certificate,
     About,
+    ChatBot,
   },
 };
 </script>
