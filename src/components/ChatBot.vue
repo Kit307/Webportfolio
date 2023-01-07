@@ -15,7 +15,7 @@ export default {};
 </script>
 <style>
 df-messenger {
-  --df-messenger-bot-message: #49f31f;
+  --df-messenger-bot-message: #08298c;
   --df-messenger-button-titlebar-color: #00ffff;
   --df-messenger-font-color: rgb(255, 255, 255);
   --df-messenger-send-icon: #0036f9;
@@ -23,5 +23,6 @@ df-messenger {
   --df-messenger-send-icon: #0036f9;
   --df-messenger-button-titlebar-font-color: black;
   --df-messenger-chat-background-color: white;
+  --df-messenger-minimized-chat-close-icon-color: black;
 }
 </style>
